@@ -1,0 +1,34 @@
+2023-09-19 01:07:50,972  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:07:51,011  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:22:07,866  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:22:07,895  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:29:52,485  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:29:52,514  INFO LoginWebApp.Startup.MoveNext [60] - MESSAGE: This is log info
+ 2023-09-19 01:34:24,290 [14] INFO LoginWebApp.Startup - This is log info
+2023-09-19 01:34:24,298 [14] INFO LoginWebApp.Startup - This is log info
+2023-09-19 01:35:14,936 [14] INFO LoginWebApp.Startup - Microsoft.AspNetCore.Mvc.ModelBinding.ModelError
+2023-09-19 01:35:14,949 [14] INFO LoginWebApp.Startup - Microsoft.AspNetCore.Mvc.ModelBinding.ModelError
+2023-09-19 01:37:28,330 [10] ERROR LoginWebApp.Startup - Microsoft.AspNetCore.Mvc.ModelBinding.ModelError
+2023-09-19 01:37:28,341 [10] ERROR LoginWebApp.Startup - Microsoft.AspNetCore.Mvc.ModelBinding.ModelError
+2023-09-19 01:38:54,309 [13] ERROR LoginWebApp.Startup - Property: User, Error: The User field is required.
+2023-09-19 01:38:54,318 [13] ERROR LoginWebApp.Startup - Property: UserId, Error: The UserId field is required.
+2023-09-19 13:00:26,486 [14] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:07:25,270 [6] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:08:03,182 [23] ERROR LoginWebApp.Startup - User NameIdentifier: 9489c9b0-5d93-484b-9d95-ceb7ec209734
+2023-09-19 13:08:03,182 [23] ERROR LoginWebApp.Startup - Property: User, Error: The User field is required.
+2023-09-19 13:08:03,182 [23] ERROR LoginWebApp.Startup - Property: UserId, Error: The UserId field is required.
+2023-09-19 13:12:09,273 [14] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:12:15,450 [14] ERROR LoginWebApp.Startup - User NameIdentifier: 
+2023-09-19 13:12:15,451 [14] ERROR LoginWebApp.Startup - Property: User, Error: The User field is required.
+2023-09-19 13:12:15,451 [14] ERROR LoginWebApp.Startup - Property: UserId, Error: The UserId field is required.
+2023-09-19 13:13:37,042 [10] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:13:51,558 [10] ERROR LoginWebApp.Startup - User NameIdentifier: 
+2023-09-19 13:13:51,559 [10] ERROR LoginWebApp.Startup - Property: User, Error: The User field is required.
+2023-09-19 13:13:51,559 [10] ERROR LoginWebApp.Startup - Property: UserId, Error: The UserId field is required.
+2023-09-19 13:13:52,751 [6] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:15:08,806 [10] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:15:13,634 [14] ERROR LoginWebApp.Startup - User NameIdentifier: 9489c9b0-5d93-484b-9d95-ceb7ec209734
+2023-09-19 13:15:13,635 [14] ERROR LoginWebApp.Startup - Property: User, Error: The User field is required.
+2023-09-19 13:15:13,635 [14] ERROR LoginWebApp.Startup - Property: UserId, Error: The UserId field is required.
+2023-09-19 13:19:20,484 [18] ERROR LoginWebApp.Startup - http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier
+2023-09-19 13:22:32,274 [18] ERROR LoginWebApp.Startup - User NameIdentifier: 9489c9b0-5d93-484b-9d95-ceb7ec209734

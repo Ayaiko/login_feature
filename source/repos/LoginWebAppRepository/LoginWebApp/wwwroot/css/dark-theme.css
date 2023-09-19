@@ -1,0 +1,31 @@
+﻿/* Dark Theme */
+a {
+    color: #bb86fc; /* Change link color */
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #bb86fc; /* Change button background color */
+    border-color: #6200ea; /* Change button border color */
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #000;
+    background-color: #bb86fc; /* Change navigation link background color */
+    border-color: #6200ea; /* Change navigation link border color */
+}
+
+/* Add dark theme styles for other elements as needed */
+
+/* Keep the other styles intact */
+a.navbar-brand,
+.border-top,
+.border-bottom,
+.box-shadow,
+button.accept-policy,
+.footer {
+    /* No color changes, keep the existing styles */
+}
+
+/* You can add more dark theme styles for other elements as needed */
